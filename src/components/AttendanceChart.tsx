@@ -63,7 +63,7 @@ const AttendanceChart = () => {
           <Legend
             align="left"
             verticalAlign="top"
-            wrapperStyle={{ paddingTop: "20px,", paddingBottom: "40px" }}
+            wrapperStyle={{ paddingTop: "20px", paddingBottom: "40px" }}
           />
           <Bar
             dataKey="present"
